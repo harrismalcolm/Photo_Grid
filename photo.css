@@ -1,0 +1,38 @@
+body{
+    background:#eee;
+}
+
+.container{
+    height: 250px;
+    width: 400px;
+    overflow: hidden;
+    float: left;
+}
+
+
+img{
+    width: 100%;
+    height: auto;
+    margin: 5%;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+img:hover{
+    -webkit-filter: none;
+    filter: none;
+}
+
+p{
+    font-family: Raleway;
+    margin-left: 2%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    width: 24.75%;
+    padding-bottom: 20px;
+}
+
+
+
