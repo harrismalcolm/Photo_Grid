@@ -7,6 +7,7 @@ body{
     width: 400px;
     overflow: hidden;
     float: left;
+    margin: 0 35px;
 }
 
 
@@ -25,7 +26,7 @@ img:hover{
 
 p{
     font-family: Raleway;
-    margin-left: 2%;
+    margin-left: 4%;
     font-size: 23px;
     font-weight: 800;
     text-transform: uppercase;
